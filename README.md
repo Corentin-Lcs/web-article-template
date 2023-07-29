@@ -1,5 +1,6 @@
 <h1 align="center">Web Article Template</h1>
 
+
 The "Web Article Template" GitHub project is a web article template. It includes a title, subtitle and section titles to make the content clearer and better structured. Animated section titles allow readers to quickly locate the information they're interested in and navigate through the text easily with visually engaging transitions. The design is clean and in the modern digital style.
 
 <p align="center">
